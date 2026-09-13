@@ -117,9 +117,14 @@ pyinstaller --onefile --windowed --name="DreamChat" ^
 - **requests** — OpenAI 兼容 API 调用
 - **PyInstaller** — 跨平台打包
 
+## 交流与授权
+
+- **DreamChat 项目交流群**：`1109799533`
+- **获取授权**：如需获取商用授权、二次分发许可或其他授权，欢迎加入项目交流群联系群主。
+
 ## License
 
-本项目采用 **MIT License**，自由使用、修改、分发。
+本项目采用 **MIT License**，自由使用、修改、分发（需保留原作者版权声明）。如需商业授权，请通过上述交流群联系群主获取。
 
 ---
 **作者**：[white-cat彼岸](https://space.bilibili.com/3493257650637602) · Bilibili 创作者
