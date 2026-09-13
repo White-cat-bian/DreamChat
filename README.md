@@ -1,6 +1,6 @@
 # DreamChat — 桌面 AI 聊天客户端 ✨
 
-> **white-cat彼岸** 打造的跨平台 AI 助手，支持 AIScript v1.0 角色人格系统。
+> **White-cat彼岸** 打造的跨平台 AI 助手，支持 AIScript v1.0 角色人格系统。
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![customtkinter](https://img.shields.io/badge/UI-customtkinter-green.svg)](https://github.com/TomSchimansky/customtkinter)
