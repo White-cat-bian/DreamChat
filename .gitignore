@@ -1,0 +1,33 @@
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# PyInstaller
+*.manifest
+*.resource
+
+# User data (API keys!)
+data/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vs/
+.idea/
+*.swp
+*.swo
+
+# Archives
+*.zip
+*.7z
+*.rar
+
+# Logs
+*.log
